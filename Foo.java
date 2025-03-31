@@ -6,7 +6,7 @@ public class Foo {
     switch(input) {
       case "1":
       answer += 1;
-      //break; Force this simple bug.
+      //break; Force this simple bug. 
       case "2": 
       answer += 2;
       break;
